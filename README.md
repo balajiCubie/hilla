@@ -91,6 +91,7 @@ If you want to develop Hilla, you can clone the repo and run tests using the fol
 
 ```sh
 git clone https://github.com/vaadin/hilla.git
+cd hilla
 npm install
 npm run build
 npm test
